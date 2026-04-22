@@ -57,7 +57,7 @@ vetcare-clinica/
 
 **Yefersito25** - Estudiante de diseño web apasionado por crear experiencias digitales funcionales y atractivas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyes-jos%C3%A9-8b4829404/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yefersito25)
 
 ---
