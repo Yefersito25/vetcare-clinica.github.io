@@ -8,7 +8,7 @@
 
 ![Vista previa de VetCare](https://via.placeholder.com/800x400?text=Click+para+ver+el+proyecto+en+vivo)
 
-> 🔗 **Ver proyecto en vivo:** https://yefersito25.github.io/vetcare-clinica/
+> 🔗 **Ver proyecto en vivo:** [https://yefersito25.github.io/vetcare-clinica/](https://yefersito25.github.io/vetcare-clinica.github.io/)
 
 ## 📖 Descripción
 
